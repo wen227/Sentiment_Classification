@@ -6,7 +6,7 @@ It's my second project in Big Data Course(2019).
 Reference:
 
 1.https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
-  This page presents a simple example of LSTM neural network model
+  This web presents a simple example of LSTM neural network model
   
 2.https://zhuanlan.zhihu.com/p/49271699 This article tells the history of word embedding
 
